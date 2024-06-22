@@ -1,0 +1,12 @@
+{
+  "Groups": [
+    { "groupName": "Group 1", "visited": "False" },
+    { "groupName": "Group 2", "visited": "False" },
+    { "groupName": "Group 3", "visited": "True" }
+  ],
+  "Secured Groups": [
+    { "groupName": "Sgroup 1", "visited": "False" },
+    { "groupName": "Sgroup 2", "visited": "False" },
+    { "groupName": "Sgroup 3", "visited": "True" }
+  ]
+}
